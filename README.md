@@ -1,4 +1,8 @@
 # JavaScriptDemos
+
+##JavaScriptDemos
+canvas-demo:1228
+LocalStorage:1228
 ##react-native-demos
 CommunicateNativeDemo:1214,展示react-native中JS与iOS Native的交互
 
